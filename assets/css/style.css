@@ -115,15 +115,15 @@
 
 @media (min-width: 1280px) {
     .section-sm {
-        top: 53%;
-        left: 59.2%;
+        top: 50%;
+        left: 66.2%;
     }
 }
 
 @media (min-width: 1366px) {
     .section-sm {
-        top: 53%;
-        left: 60.2%;
+        top: 50%;
+        left: 67%;
     }
 }
 
