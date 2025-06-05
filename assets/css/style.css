@@ -1,0 +1,156 @@
+.body-bg-color {
+    background: #ECF2F8;
+}
+
+.gray-color1 {
+    color: #48556A;
+}
+
+.gray-color2 {
+    color: #6E8098;
+}
+
+.gray-color3 {
+    color: #9DAEC2;
+}
+
+.bg-gray-color1 {
+    background-color: #48556A;
+}
+
+.font-manrope {
+    font-family: "Manrope", sans-serif;
+}
+
+.article-title {
+    font-weight: 700;
+    line-height: 130%;
+    letter-spacing: 0.25px;
+    font-size: 20px;
+}
+
+.article-content {
+    font-weight: 500;
+    line-height: 140%;
+    letter-spacing: 0.12px;
+    font-size: 13px;
+}
+
+.share-content {
+    font-weight: 500;
+    line-height: 140%;
+    letter-spacing: 3.3px;
+    font-size: 13px;
+}
+
+.icon-color {
+    background-color: #ECF2F8;
+}
+
+.icon-color:hover {
+    background-color: #6E8098;
+}
+
+.icon-color:hover img {
+    filter: brightness(100);
+}
+
+.pt-32 {
+    padding-top: 32px !important;
+}
+
+.px-32 {
+    padding-left: 32px !important;
+    padding-right: 32px !important;
+}
+
+.share-icon {
+    background-color: #6E8098;
+}
+
+.share-icon img {
+    filter: brightness(100);
+}
+
+.arrow-down {
+    width: 0;
+    height: 0;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    border-top: 20px solid #48556A;
+}
+
+@media (min-width: 568px) {
+    .pt-41 {
+        padding-top: 41px !important;
+    }
+
+    .pb-41 {
+        padding-bottom: 41px !important;
+    }
+
+    .w-80 {
+        width: 80%;
+    }
+
+    .section-sm {
+        top: 51%;
+        left: 70%;
+    }
+}
+
+@media (min-width: 768px) {
+    .section-sm {
+        top: 51%;
+        left: 70%;
+    }
+}
+
+@media (min-width: 1024px) {
+    .section-sm {
+        top: 49%;
+        left: 76.2%;
+    }
+}
+
+@media (min-width: 1280px) {
+    .section-sm {
+        top: 53%;
+        left: 59.2%;
+    }
+}
+
+@media (min-width: 1366px) {
+    .section-sm {
+        top: 53%;
+        left: 60.2%;
+    }
+}
+
+@media (min-width: 1440px) {
+    .section-sm {
+        top: 51%;
+        left: 60.7%;
+    }
+}
+
+@media (min-width: 1536px) {
+    .section-sm {
+        top: 50%;
+        left: 61.3%;
+    }
+}
+
+@media (min-width: 1920px) {
+    .section-sm {
+        top: 49%;
+        left: 63.6%;
+    }
+}
+
+@media (min-width: 2560px) {
+    .section-sm {
+        top: 45%;
+        left: 65.9%;
+    }
+}
